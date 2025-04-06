@@ -4,8 +4,6 @@
 
 A full-stack MERN application for a bakery e-commerce website with product management, shopping cart functionality, and responsive design.
 
-![Bakery E-commerce Platform](https://via.placeholder.com/800x400?text=Bakery+E-commerce+Platform)
-
 ## 🌟 Features
 
 - **Product Browsing**: Browse bakery products by categories with smooth UI transitions
