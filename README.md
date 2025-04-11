@@ -120,7 +120,7 @@ The application can be deployed using platforms like:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Project Link:
+Project Link:https://www.linkedin.com/posts/heera-yr_mern-reactjs-mongodb-activity-7314730413615206400-CuXc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe7_2kBzye6irSlm8ugl3cfh48S3LVyWxU
 
 ---
 
